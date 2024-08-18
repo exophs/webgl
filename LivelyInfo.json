@@ -4,9 +4,9 @@
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
   "Desc": "Fluid simulation using WebGL, reacts with system audio & cursor.",
-  "Author": "PavelDoGreat",
+  "Author": "exophs",
   "License": "MIT",
-  "Contact": "https://github.com/rocksdanister/WebGL-Fluid-Simulation",
+  "Contact": "https://github.com/exophs/webgl",
   "Type": 1,
   "Arguments": "--audio --pause-event true",
   "FileName": "index.html"
