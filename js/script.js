@@ -41,7 +41,7 @@ let config = {
   SHADING: true,
   COLORFUL: true,
   COLOR_UPDATE_SPEED: 10,
-  PAUSED: false,
+  PAUSED: true,
   BACK_COLOR: { r: 0, g: 0, b: 0 },
   TRANSPARENT: false,
   BLOOM: true,
